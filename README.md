@@ -20,6 +20,10 @@ No segundo terminal (consome a API graphQL)
 3 - npm start
 ```
 
+Identificação do Público-Alvo:
+Nosso público-alvo é diversificado e vibrante, composto por indivíduos que têm um apreço especial pelo café e também valorizam a moda como parte essencial de suas vidas. 
+
+Como tentei superar filtro-bolhas no meu design?
 
 Para enfrentar o desafio dos filtros de bolha, implementamos uma abordagem que permite aos usuários filtrar os produtos de acordo com suas preferências. Utilizamos categorizações claras e visuais, onde os usuários podem selecionar facilmente os tipos de produtos que desejam visualizar, como camisas, xícaras de café ou bonés.
 Incorporamos práticas de usabilidade de interfaces para garantir que a navegação seja intuitiva e eficiente. Implementamos um layout limpo e organizado, com uma disposição visualmente atraente dos produtos. Utilizamos ícones e imagens de alta qualidade para destacar os detalhes dos produtos e garantir que os usuários tenham uma compreensão clara de cada item.
