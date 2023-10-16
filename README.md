@@ -19,3 +19,8 @@ No segundo terminal (consome a API graphQL)
 2 - npm install
 3 - npm start
 ```
+
+
+Para enfrentar o desafio dos filtros de bolha, implementamos uma abordagem que permite aos usuários filtrar os produtos de acordo com suas preferências. Utilizamos categorizações claras e visuais, onde os usuários podem selecionar facilmente os tipos de produtos que desejam visualizar, como camisas, xícaras de café ou bonés.
+Incorporamos práticas de usabilidade de interfaces para garantir que a navegação seja intuitiva e eficiente. Implementamos um layout limpo e organizado, com uma disposição visualmente atraente dos produtos. Utilizamos ícones e imagens de alta qualidade para destacar os detalhes dos produtos e garantir que os usuários tenham uma compreensão clara de cada item.
+Em resumo, nosso design interativo aborda os desafios dos filtros de bolha, proporcionando uma maneira eficaz de os usuários filtrarem e encontrarem produtos de acordo com suas preferências. Ao mesmo tempo, incorporamos práticas de usabilidade para garantir uma experiência de compra agradável e eficiente para nosso público-alvo apaixonado por café e moda.
