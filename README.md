@@ -9,3 +9,6 @@ cd capputeemo
 npm install
 ```
 
+```bash
+cd api
+```
